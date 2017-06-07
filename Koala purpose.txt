@@ -1,0 +1,17 @@
+Applicant tracker for applicants. 
+
+People apply to so many jobs that sometimes
+they forget:
+- what job they applied to
+- when they applied to that job
+- what resume they used
+
+This would be an easy way for people to 
+keep track of all of that
+
+Currently I use a combination of Gmail and 
+Excel to track my applications and it can 
+become messy and overwhelming. 
+
+
+Made by Koala's for Humans. <3
