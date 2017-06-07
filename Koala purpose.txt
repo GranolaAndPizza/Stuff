@@ -15,3 +15,38 @@ become messy and overwhelming.
 
 
 Made by Koala's for Humans. <3
+
+
+- Store
+Store your job materials online, and organize that information into folders to have access anywhere and anytime.
+
+- Track
+Keeping track of your applications in a organized manner is imperative, so track the jobs for which you’ve applied along with your follow-up responses, resume, and cover letter.  
+
+- Succeed
+The key to a successful job search is to get organized. You have a plan of action, so execute it in an organized manner. 
+
+SECOND SLIDER
+During the job application process, you might end up applying for dozens of jobs. 
+With so many opportunities – and months of wait time to hear back about positions
+ – it’s only natural to get a little confused. The worst-case scenario: 
+you get a call about a position you can’t exactly remember, you panic, and then you ask, 
+“Which job is this for?”
+
+You don't wanna be THAT guy. 
+
+
+Tracking features: 
+1. Make a table of the 
+	- company name
+	- contact information
+	- contact
+	- position for which you applied
+	- date the application was submitted 
+	- color coding option for Submitted, In progress, completed, follow-up, closed
+2. Store resume, CV cover letter files along with that job (Need upolaod file options)
+3. Allow candidates to write notes:
+	- recruiter name
+	- recruiter phone
+	- recruiter email 
+	- notes from conversation
